@@ -63,6 +63,42 @@ module.exports = {
     // You can add another theme among the list of 30+
     // Add "data-theme='theme_name" to any HTML tag to enable the 'theme_name' theme.
     // https://daisyui.com/
-    themes: ["light", "dark"],
+    themes: ["corporate",],
   },
 };
+
+// THEMES:
+
+// themes: [
+//   "light",
+//   "dark",
+//   "cupcake",
+//   "bumblebee",
+//   "emerald",
+//   "corporate",
+//   "synthwave",
+//   "retro",
+//   "cyberpunk",business
+//   "valentine",
+//   "halloween",
+//   "garden",
+//   "forest",
+//   "aqua",
+//   "lofi",
+//   "pastel",
+//   "fantasy",
+//   "wireframe",
+//   "black",
+//   "luxury",
+//   "dracula",
+//   "cmyk",
+//   "autumn",
+//   "",
+//   "acid",
+//   "lemonade",
+//   "night",
+//   "coffee",
+//   "winter",
+//   "dim",
+//   "nord",
+//   "sunset",
